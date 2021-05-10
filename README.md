@@ -28,3 +28,10 @@ To run the tests run:
 ```bash
 yarn test
 ```
+
+You should see the answers in a table in the terminal.
+
+### Process 
+* Wrote the tests using mocked data for the utils
+* Wrote the tests using mocked data for the parser
+* Parsed the file and return the anwsers in a `console.table` from the `index.js` file.
